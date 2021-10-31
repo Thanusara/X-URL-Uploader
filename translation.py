@@ -1,5 +1,7 @@
 class Translation(object):
     START_TEXT = """Hi {},
+YOU WILL NEVER ALWAYS BE MOTIVATED, SO YOU MUST LEARN TO BE DISCIPLINED.😚❤️
+So Welcome To Bot🙂
 I'm Y-URL-Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
 

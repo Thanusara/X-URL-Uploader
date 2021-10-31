@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi {},
-I'm X-URL-Uploader!
+I'm Y-URL-Uploader!
 You can upload HTTP/HTTPS direct link, Using this bot!
 
 /help for more details!"""
@@ -10,7 +10,7 @@ URL | filename | username | password"""
     DOWNLOAD_START = "Now Downloading.."
     UPLOAD_START = "Now Uploading.."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @xurluploaderbot)"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @MirrozsUrlUploaderbot)"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@xurluploaderbot"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
